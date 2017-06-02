@@ -1,4 +1,4 @@
-# 2D Grid LSTM
+# 2D Grid LSTM as described here: http://arxiv.org/pdf/1507.01526v2.pdf
 
 ![](https://github.com/coreylynch/grid-lstm/blob/master/grid-lstm.png)
 
